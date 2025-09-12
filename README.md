@@ -3,9 +3,7 @@ Computer Age Statistical Inference code for textbook
 
 Book homepage: https://web.stanford.edu/~hastie/CASI/index.html
 
-Works directly with RStudio. Open up the .Rproj file and you're good to go. 
+Code for ESS users, pure R without markup.
 Content:
-* Chapter wise .Rmd files
+* Chapter wise .R files
 * data sub-folder (currently empty): [data](https://web.stanford.edu/~hastie/CASI/data.html)
-* Chapter wise .html files for browser preview
-* Misc support files since I'm also using reference functions in Latex and R
